@@ -1,0 +1,16 @@
+/home/scooter/dotNetDebugging/bin/Debug/net5.0/dotNetDebugging
+/home/scooter/dotNetDebugging/bin/Debug/net5.0/dotNetDebugging.deps.json
+/home/scooter/dotNetDebugging/bin/Debug/net5.0/dotNetDebugging.runtimeconfig.json
+/home/scooter/dotNetDebugging/bin/Debug/net5.0/dotNetDebugging.runtimeconfig.dev.json
+/home/scooter/dotNetDebugging/bin/Debug/net5.0/dotNetDebugging.dll
+/home/scooter/dotNetDebugging/bin/Debug/net5.0/ref/dotNetDebugging.dll
+/home/scooter/dotNetDebugging/bin/Debug/net5.0/dotNetDebugging.pdb
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.csprojAssemblyReference.cache
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.AssemblyInfoInputs.cache
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.AssemblyInfo.cs
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.csproj.CoreCompileInputs.cache
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.dll
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/ref/dotNetDebugging.dll
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.pdb
+/home/scooter/dotNetDebugging/obj/Debug/net5.0/dotNetDebugging.genruntimeconfig.cache
