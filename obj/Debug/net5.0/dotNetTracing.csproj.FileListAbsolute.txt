@@ -1,0 +1,16 @@
+/home/scooter/dotNetTracing/bin/Debug/net5.0/dotNetTracing
+/home/scooter/dotNetTracing/bin/Debug/net5.0/dotNetTracing.deps.json
+/home/scooter/dotNetTracing/bin/Debug/net5.0/dotNetTracing.runtimeconfig.json
+/home/scooter/dotNetTracing/bin/Debug/net5.0/dotNetTracing.runtimeconfig.dev.json
+/home/scooter/dotNetTracing/bin/Debug/net5.0/dotNetTracing.dll
+/home/scooter/dotNetTracing/bin/Debug/net5.0/ref/dotNetTracing.dll
+/home/scooter/dotNetTracing/bin/Debug/net5.0/dotNetTracing.pdb
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.csprojAssemblyReference.cache
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.AssemblyInfoInputs.cache
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.AssemblyInfo.cs
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.csproj.CoreCompileInputs.cache
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.dll
+/home/scooter/dotNetTracing/obj/Debug/net5.0/ref/dotNetTracing.dll
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.pdb
+/home/scooter/dotNetTracing/obj/Debug/net5.0/dotNetTracing.genruntimeconfig.cache
